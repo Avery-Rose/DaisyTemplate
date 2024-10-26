@@ -10,7 +10,13 @@ function Home() {
             <p className="py-6">
               this is a template for daisyUI, a component library for tailwind
             </p>
-            <button className="btn btn-primary">View on GitHub</button>
+            <a
+              href="https://github.com/Avery-Rose/DaisyTemplate"
+              target="_blank"
+              className="btn btn-primary"
+            >
+              View on GitHub
+            </a>
           </div>
         </div>
       </div>
